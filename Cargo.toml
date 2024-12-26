@@ -7,6 +7,7 @@ edition = "2021"
 
 [dependencies.windows]
 git = "https://github.com/microsoft/windows-rs.git"
+tag = "0.60.0"
 features = [
     "implement",
     "Win32_Data_HtmlHelp",
